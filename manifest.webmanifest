@@ -1,0 +1,33 @@
+{
+  "name": "Virasat — What to do next",
+  "short_name": "Virasat",
+  "description": "A focused scripted demo that turns a supported bereavement scenario into a detailed action plan.",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f2f1eb",
+  "theme_color": "#123e2c",
+  "lang": "en-IN",
+  "categories": ["government", "productivity", "utilities"],
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
